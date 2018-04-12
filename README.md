@@ -1,2 +1,2 @@
-# sample-portfolio
-a portfolio site based on bootstrap 4.1
+# law-firm-site
+a website for a fictional law firm. Based on bootstrap 4.1
